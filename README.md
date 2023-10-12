@@ -59,7 +59,10 @@ pip install torch==1.13.1
 pip install transformers==4.34.0  
 pip install sacrebleu  
 ```
-  
+
+## Downloads
+  Download the model outputs from https://drive.google.com/file/d/1ZexXHSHy-_GlAA5kJzSYRJawkG4cVfiX/view?usp=sharing 
+
 ## Citation  
 If you find this code useful for your research, please cite the following paper:  
 ```  
